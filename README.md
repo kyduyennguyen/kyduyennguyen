@@ -4,8 +4,7 @@
 - My name's Duyen Nguyen but you can call me is Angelly (nickname: Chubby Bear 🐻‍❄️)
 - I'm a software engineer 👩‍💻
 - I like draw and design 🎨
-- I have experience about Python, C/C++ 💻
-- Besides, I have experience about Front-end (HTML-CSS-JavaScript-ReactJS) 🥰
+- I have experience about FullStack (BE: Java, Python, C/C++, FE: HTML, CSS, JavaScript-ReactJS)  💻
 - 📲 You could get in touch with me by: 
   - Github: https://github.com/kyduyennguyen
   - Linkedin: https://www.linkedin.com/in/duyen-dk-nguyen/
