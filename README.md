@@ -8,7 +8,6 @@
 - 📲 You could get in touch with me by: 
   - Github: https://github.com/kyduyennguyen
   - Linkedin: https://www.linkedin.com/in/duyen-dk-nguyen/
-  - Facebook: https://www.facebook.com/chubbybear308/
   - Instagram: https://www.instagram.com/_chubbyyy.bearrr.96_/
   - Frontend Mentor: https://www.frontendmentor.io/profile/kyduyennguyen
 
