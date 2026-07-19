@@ -1,4 +1,4 @@
-![banner_personal](https://github.com/kyduyennguyen/kyduyennguyen/assets/85860433/2a88982c-b998-460c-8ad8-2b5f98eed495)
+<img width="1920" height="600" alt="personal_cover" src="https://github.com/user-attachments/assets/23d20b85-7d80-43d5-8b46-cc6e0c92370f" />
 # Hi there 👋
 ## Wellcome to my github channel 😉
 - My name's Duyen Nguyen but you can call me is Angelly (nickname: Chubby Bear 🐻‍❄️)
